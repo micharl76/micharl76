@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micharl76
-- 👀 I’m interested in AI and mobile communication tech, also stock/future related tech
+- 👀 I’m interested in AI and mobile communication
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI 
 - 📫 How to reach me: internal chat  or micharltian@gmail.com
